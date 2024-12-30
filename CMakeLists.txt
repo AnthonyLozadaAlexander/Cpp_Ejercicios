@@ -8,4 +8,6 @@ add_executable(Clion_Projects main.cpp
         EjercicioIMC.cpp
         Ejercicio2.cpp
         Ejercicio3_while.cpp
-        Matriz.cpp)
+        Matriz.cpp
+        Ejercicio4.cpp
+        Ejercicio5.cpp)
