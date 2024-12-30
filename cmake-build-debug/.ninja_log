@@ -1,0 +1,16 @@
+# ninja log v6
+15	2459	7557853033266390	CMakeFiles/Clion_Projects.dir/main.cpp.obj.ddi	1e6e6a6353f5ca32
+12	420	7569597464508384	CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.ddi	fa3dd37da0dedaac
+450	535	7569597468882211	CMakeFiles/Clion_Projects.dir/CXX.dd	f96bb9d0b9b85251
+450	535	7569597468882211	C:/Users/user/Desktop/Clion-Projects/cmake-build-debug/CMakeFiles/Clion_Projects.dir/CXXModules.json	f96bb9d0b9b85251
+450	535	7569597468882211	CMakeFiles/Clion_Projects.dir/main.cpp.obj.modmap	f96bb9d0b9b85251
+3855	6787	7557853071668070	CMakeFiles/Clion_Projects.dir/main.cpp.obj	9868b22a94090406
+17	6264	7557853321825867	Clion_Projects.exe	4d091e3fae70fef
+11	353	7559839281491679	CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.ddi	4dfd4bd19ddab040
+450	535	7569597468882211	CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.modmap	f96bb9d0b9b85251
+450	535	7569597468882211	CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.modmap	f96bb9d0b9b85251
+542	1241	7559839286795706	CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj	73be430e158d447e
+539	1385	7569597469773772	CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj	9c5f511222af51c9
+84	450	7569597465232594	CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.ddi	4b365d81c1a9a67
+450	535	7569597468882211	CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.modmap	f96bb9d0b9b85251
+550	1390	7569597469878925	CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj	d595531bd2017e54
