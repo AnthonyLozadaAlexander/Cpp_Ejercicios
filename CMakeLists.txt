@@ -11,4 +11,5 @@ add_executable(Clion_Projects main.cpp
         Matriz.cpp
         Ejercicio4.cpp
         Ejercicio5.cpp
-        Ejercicio_SegundoTotales.cpp)
+        Ejercicio_SegundoTotales.cpp
+        Ejercicio6.cpp)
