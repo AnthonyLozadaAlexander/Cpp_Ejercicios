@@ -12,4 +12,7 @@ add_executable(Clion_Projects main.cpp
         Ejercicio4.cpp
         Ejercicio5.cpp
         Ejercicio_SegundoTotales.cpp
-        Ejercicio6.cpp)
+        Ejercicio6.cpp
+        Ejercicio7.cpp
+        LibreriaMath.cpp
+        Condicional_IfElse.cpp)

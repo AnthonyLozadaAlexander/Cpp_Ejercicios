@@ -199,7 +199,52 @@ build CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj: CXX_COMPILER__Clion_Proj
   OBJECT_FILE_DIR = CMakeFiles\Clion_Projects.dir
   dyndep = CMakeFiles/Clion_Projects.dir/CXX.dd
 
-build CMakeFiles/Clion_Projects.dir/CXX.dd | C$:/Users/user/Desktop/Clion-Projects/cmake-build-debug/CMakeFiles/Clion_Projects.dir/CXXModules.json CMakeFiles/Clion_Projects.dir/main.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj.modmap: CXX_DYNDEP__Clion_Projects_Debug CMakeFiles/Clion_Projects.dir/main.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj.ddi | C$:/Users/user/Desktop/Clion-Projects/cmake-build-debug/CMakeFiles/Clion_Projects.dir/CXXDependInfo.json
+build CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj.ddi: CXX_SCAN__Clion_Projects_Debug C$:/Users/user/Desktop/Clion-Projects/Ejercicio7.cpp || cmake_object_order_depends_target_Clion_Projects
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj.ddi.i
+
+build CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj: CXX_COMPILER__Clion_Projects_scanned_Debug C$:/Users/user/Desktop/Clion-Projects/Ejercicio7.cpp | CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj.modmap || cmake_object_order_depends_target_Clion_Projects CMakeFiles/Clion_Projects.dir/CXX.dd
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\Clion_Projects.dir\Ejercicio7.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Clion_Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\Clion_Projects.dir
+  dyndep = CMakeFiles/Clion_Projects.dir/CXX.dd
+
+build CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj.ddi: CXX_SCAN__Clion_Projects_Debug C$:/Users/user/Desktop/Clion-Projects/LibreriaMath.cpp || cmake_object_order_depends_target_Clion_Projects
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj.ddi.i
+
+build CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj: CXX_COMPILER__Clion_Projects_scanned_Debug C$:/Users/user/Desktop/Clion-Projects/LibreriaMath.cpp | CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj.modmap || cmake_object_order_depends_target_Clion_Projects CMakeFiles/Clion_Projects.dir/CXX.dd
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\Clion_Projects.dir\LibreriaMath.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Clion_Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\Clion_Projects.dir
+  dyndep = CMakeFiles/Clion_Projects.dir/CXX.dd
+
+build CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj.ddi: CXX_SCAN__Clion_Projects_Debug C$:/Users/user/Desktop/Clion-Projects/Condicional_IfElse.cpp || cmake_object_order_depends_target_Clion_Projects
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJ_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj.ddi.i
+
+build CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj: CXX_COMPILER__Clion_Projects_scanned_Debug C$:/Users/user/Desktop/Clion-Projects/Condicional_IfElse.cpp | CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj.modmap || cmake_object_order_depends_target_Clion_Projects CMakeFiles/Clion_Projects.dir/CXX.dd
+  DEP_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\Clion_Projects.dir\Condicional_IfElse.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Clion_Projects.dir
+  OBJECT_FILE_DIR = CMakeFiles\Clion_Projects.dir
+  dyndep = CMakeFiles/Clion_Projects.dir/CXX.dd
+
+build CMakeFiles/Clion_Projects.dir/CXX.dd | C$:/Users/user/Desktop/Clion-Projects/cmake-build-debug/CMakeFiles/Clion_Projects.dir/CXXModules.json CMakeFiles/Clion_Projects.dir/main.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj.modmap CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj.modmap: CXX_DYNDEP__Clion_Projects_Debug CMakeFiles/Clion_Projects.dir/main.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj.ddi CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj.ddi | C$:/Users/user/Desktop/Clion-Projects/cmake-build-debug/CMakeFiles/Clion_Projects.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -209,7 +254,7 @@ build CMakeFiles/Clion_Projects.dir/CXX.dd | C$:/Users/user/Desktop/Clion-Projec
 #############################################
 # Link the executable Clion_Projects.exe
 
-build Clion_Projects.exe: CXX_EXECUTABLE_LINKER__Clion_Projects_Debug CMakeFiles/Clion_Projects.dir/main.cpp.obj CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj
+build Clion_Projects.exe: CXX_EXECUTABLE_LINKER__Clion_Projects_Debug CMakeFiles/Clion_Projects.dir/main.cpp.obj CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio3_while.cpp.obj CMakeFiles/Clion_Projects.dir/Matriz.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio4.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio5.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio_SegundoTotales.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio6.cpp.obj CMakeFiles/Clion_Projects.dir/Ejercicio7.cpp.obj CMakeFiles/Clion_Projects.dir/LibreriaMath.cpp.obj CMakeFiles/Clion_Projects.dir/Condicional_IfElse.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Clion_Projects.dir
