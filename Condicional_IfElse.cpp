@@ -12,11 +12,11 @@ int main()
 
    if (edad >= 18)
    {
-     cout <<"Su edad es: " << edad << " años, por lo tanto es mayor de edad." << endl;
+     cout <<"Su edad es: " << edad << " anios, por lo tanto es mayor de edad." << endl;
    }
    else
    {
-      cout <<"Su edad es: " << edad << " años, por lo tanto es menor de edad." << endl;
+      cout <<"Su edad es: " << edad << " anios, por lo tanto es menor de edad." << endl;
    }
 
 }
