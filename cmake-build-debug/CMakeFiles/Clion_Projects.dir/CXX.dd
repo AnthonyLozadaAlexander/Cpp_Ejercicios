@@ -1,9 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/Clion_Projects.dir/main.cpp.obj: dyndep
-
-build CMakeFiles/Clion_Projects.dir/ejercicio1.cpp.obj: dyndep
-
-build CMakeFiles/Clion_Projects.dir/EjercicioIMC.cpp.obj: dyndep
-
-build CMakeFiles/Clion_Projects.dir/Ejercicio2.cpp.obj: dyndep
-
